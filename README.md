@@ -1,6 +1,10 @@
-You can apply for a job in Codeventure even if we are not hiring. If you think you are a good match for our team dynamic, feel free to fill this form.
+<h2>Come and join our team!</h2>
 
-[](https://media.giphy.com/media/3oKIPz6FWhfMAOsZAk/source.gif)
+<p align="left">
+  <img src="./hiring.gif" width="320" height="282">
+</p>
+
+You can apply for a job in Codeventure even if we are not hiring. If you think you are a good match for our team dynamic, feel free to fill this form.
 
 | Position  | Tech Stack / Fields | Application Link |
 |-------------|--------------|---------------------|
