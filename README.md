@@ -8,9 +8,10 @@ You can apply for a job in Codeventure even if we are not hiring. If you think y
 
 | Position  | Tech Stack / Fields | Application Link |
 |-------------|--------------|---------------------|
-| Backend Developer  &nbsp;&nbsp;&nbsp;(We're Hiring)| Node.js, MongoDB, Redis, Docker | https://forms.gle/pbHNNjbe4nu6Cicy6 |
-| Frontend Developer &nbsp;&nbsp;(We're Hiring)| React, TypeScript, MobX | https://forms.gle/vXRG2Tmq5Gc8ACnr9 |
-| Full Stack Developer &nbsp;(We're Hiring)| React, Node.js, MongoDB | https://forms.gle/HEC6iKPkZSQ41faL6 |
+| Backend Developer | Node.js, MongoDB, Redis, Docker | https://forms.gle/pbHNNjbe4nu6Cicy6 |
+| Frontend Developer | React, TypeScript, MobX | https://forms.gle/vXRG2Tmq5Gc8ACnr9 |
+| Full Stack Developer | React, Node.js, MongoDB | https://forms.gle/HEC6iKPkZSQ41faL6 |
+| Project Manager | Agile Software Development, Project Management Methodologies | https://forms.gle/s9H9uXAENKZJJFM76 |
 | React Native Developer | React Native, iOS, Android | https://forms.gle/DxCu7gsrhaLDr41JA |
 | Other job opportunities | Sales, Design, Other | https://forms.gle/odGu8p8YQnz9hbNk7 |
 | Intern | Software Development, Social Media Marketing, Business Development | https://forms.gle/wcY3dk8CxFjMfCzR6 |
